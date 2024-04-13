@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SIVA PRASAD REDDY</h1>
 <h3 align="center">A passionate DevOps Engineer </h3>
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2537629/screenshots/16439435/media/f0e1e2db8334bf1074c0ae849f3da7fe.jpg?resize=800x600&vertical=center">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif?resize=800x600&vertical=center">
 
 - 🌱 I’m currently learning **DevSec & MLOps**
 
