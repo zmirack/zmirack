@@ -1,4 +1,4 @@
-[![Masterhead](https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/07/code-validate-deploy-loop-1024x426.png)](https://cloudxlab.com/blog/mlops-machine-learning-operations-a-complete-hands-on-guide-with-case-study/)
+[![Masterhead](https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/07/code-validate-deploy-loop-1024x326.png)](https://cloudxlab.com/blog/mlops-machine-learning-operations-a-complete-hands-on-guide-with-case-study/)
 <h1 align="center">Hi 👋, I'm SIVA PRASAD REDDY</h1>
 <h3 align="center">A passionate DevOps Engineer </h3>
 
